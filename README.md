@@ -1,6 +1,6 @@
 # gaps-answers-dataset
 
-The data used for evaluation and testing purposes in the paper ‘Directed Graph-alignment approach towards Identification of Gaps in Short Answers’ comprises of the following:
+This repository comprises of the data used for evaluation and testing purposes in the paper ‘Directed Graph-alignment approach towards Identification of Gaps in Short Answers’.
 
 1. Files have been attached corresponding to each of the datasets namely, University of North Texas, ScientsBank and Beetle.
 2. Each of the files consists of the following fields:
