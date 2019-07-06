@@ -9,7 +9,7 @@ This repository comprises of the data used for evaluation and testing purposes i
     
    -	**question_paper:** The dataset that each student answer belongs to. ScientsBank dataset comprises of Train, Unseen Answer (UA), Unseen Question(UQ) and Unseen Domain(UD) subsets. They have been denoted as Scients_Train, Scients_UA, Scients_UQ and Scients_UD, respectively. Similarly, Beetle dataset comprises of Train, Unseen Answer (UA) and Unseen Question (UQ) subsets. They have been indicated as Beetle_Train, Beetle_UA and Beetle_UQ, respectively.
     
-   -  **question_type:** Type of question. Question-types such as Concept-completion, Definition and Explanation have been mentioned. 
+   -  **question_type:** Type of question. Student answers belonging to types of questions such as Concept-completion, Definition and Explanation have been tested for identification of gaps. 
     
    -  **question_text:** Question corresponding to the student answer
     
