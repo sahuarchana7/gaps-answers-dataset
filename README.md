@@ -17,7 +17,6 @@ The data used for evaluation and testing purposes in the paper ‘Directed Graph
     
     f)	model_answer: Model answer associated with the student answer
     
-    g)	gap: Actual gap in the student answer
-    
+    g)	gap: Actual gap in the student answer    
     
 
