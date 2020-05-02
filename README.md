@@ -17,6 +17,7 @@ This repository comprises of the data used for evaluation and testing purposes i
     
    -	**model_answer:** Model answer associated with the student answer
     
-   -	**gap:** Actual gap in the student answer    
+   -	**gap:** Actual gap in the student answer 
+3. It is to be noted that all the sentences in both student and model answers are presented in corresponding active forms. 
     
 
